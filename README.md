@@ -1,8 +1,7 @@
 <h1>Olá/Hello :raised_back_of_hand: </h1>
 
-<h2>Sobre mim: </h2>
+## Sobre mim:
 
- 
 <p>:red_haired_woman: Tenho 21 anos e resido em Osasco, São Paulo - Brasil</p>
 <p>:briefcase:Eu estou atualmente na faculdade de Design digital pela Anhembi Morumbi</p>
 <p>:desktop_computer:Pretendo me especializar em <strong>desenvolvimento web</strong></p>
