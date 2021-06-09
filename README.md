@@ -9,4 +9,6 @@
 <p>:fountain_pen:As tecnologias que uso nesse momento são: HTML, CSS e JavaScript</p>
 <p>:calendar:Próximas tecnologias que gostaria de aprender são: React, Next e Phyton</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiozzogabi)](https://github.com/tiozzogabi/github-readme-stats)
+
 <h2>Contato em outras redes: <a href="https://www.linkedin.com/in/gabrielle-tiozzo/">Linkedin</a></h2>
