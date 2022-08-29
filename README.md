@@ -1,7 +1,7 @@
 # Olá/Hello :raised_back_of_hand:
 
 ## Sobre mim:
-- 👩‍🦰 Tenho 21 anos e resido em Osasco, São Paulo - Brasil
+- 👩‍🦰 Tenho 22 anos e resido em Osasco, São Paulo - Brasil
 - 🖥️ Pretendo me especializar em **desenvolvimento web**
 - 🖋️ As tecnologias que uso nesse momento são: HTML, CSS e JavaScript
 - 📆 Próximas tecnologias que gostaria de aprender são: React, Next e Phyton
