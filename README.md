@@ -2,7 +2,6 @@
 
 ## Sobre mim:
 - 👩‍🦰 Tenho 21 anos e resido em Osasco, São Paulo - Brasil
-- 💼 Eu estou atualmente na faculdade de Design digital pela Anhembi Morumbi
 - 🖥️ Pretendo me especializar em **desenvolvimento web**
 - 🖋️ As tecnologias que uso nesse momento são: HTML, CSS e JavaScript
 - 📆 Próximas tecnologias que gostaria de aprender são: React, Next e Phyton
